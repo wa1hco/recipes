@@ -9,7 +9,10 @@ Home-cook notes from Chinese-language episodes. The videos stay on YouTube.
 
 ## Full channel catalog
 
-[catalog.md](catalog.md) lists every upload, sorted into:
+- English titles: [catalog-en.md](catalog-en.md)
+- Original Chinese titles: [catalog.md](catalog.md)
+
+Every upload, sorted into:
 
 | Category | Count |
 | --- | ---: |
